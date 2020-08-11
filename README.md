@@ -2,4 +2,6 @@
 Campgrounds around the world 
 
 ## Setup
-`node app.js`
+- `cd v3`
+- `npm install`
+- `node app.js`
